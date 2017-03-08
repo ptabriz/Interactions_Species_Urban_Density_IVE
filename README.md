@@ -1,10 +1,10 @@
 ![Header image](https://github.com/ptabriz/Interactions_Species_Urban_Density_IVE/blob/master/img/IMG_9594.jpg)
 
 
-# The main and interaction effects of species abundance and urban density on perceived restorative potential of urban landscapes 
+## The main and interaction effects of species abundance and urban density on perceived restorative potential of urban landscapes 
 
-## Abstract
-This virtual relaity application is powered by Vorld Wizard virtual reality development software. The application runs an experiment related to examination of impact of built-landscape attributes on human percieved mental health. It is developed for a colloborative project between NC State Center for Geospatial analytics and Univerisity of Illinois. 
+## Intro
+This virtual reality application is powered by Vorld Wizard virtual reality development software. The application runs an experiment related to examination of impact of built-landscape attributes on human percieved mental health. It is developed for a colloborative project between NC State Center for Geospatial analytics and Univerisity of Illinois. 
 
 ## Dependencies and requirements
 -   Oculus headset CV1 or DK2
