@@ -4,7 +4,7 @@
 ## The main and interaction effects of species abundance and urban density on perceived restorative potential of urban landscapes 
 
 ## Intro
-This virtual reality application is powered by [World vizard] (http://www.worldviz.com/vizard-virtual-reality-software/virtual) reality development software. The application runs an experiment related to examination of impact of built-landscape attributes on human percieved mental health. It is developed for a colloborative project between NC State Center for Geospatial analytics and Univerisity of Illinois. 
+This virtual reality application is powered by [World vizard] (http://www.worldviz.com/vizard-virtual-reality-software/) virtual reality development software. The application executes an experiment related to examination of impact of built-landscape attributes on human percieved mental health. It is developed for a colloborative project between NC State Center for Geospatial analytics and Univerisity of Illinois. 
 
 ## Dependencies and requirements
 -   Oculus headset CV1 or DK2
