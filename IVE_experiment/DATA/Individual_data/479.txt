@@ -1,0 +1,12 @@
+479	2	0_natur	2	Qindex   1
+479	2	1_natur	6	Qindex   1
+479	2	3_natur	6	Qindex   1
+479	2	2_natur	5	Qindex   1
+479	2	3_dense	6	Qindex   1
+479	2	2_dense	5	Qindex   1
+479	2	0_dense	4	Qindex   1
+479	2	1_dense	6	Qindex   1
+479	2	0_med.p	6	Qindex   1
+479	2	3_med.p	4	Qindex   1
+479	2	2_med.p	4	Qindex   1
+479	2	1_med.p	5	Qindex   1

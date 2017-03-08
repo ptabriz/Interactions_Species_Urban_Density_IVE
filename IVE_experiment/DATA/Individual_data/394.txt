@@ -1,0 +1,13 @@
+394	5	interior1.png	2	Qindex   1
+394	5	interior1.png	3	Qindex   3
+394	5	interior1.png	3	Qindex   2
+394	5	intro2.png	5	Qindex   1
+394	5	intro2.png	3	Qindex   2
+394	5	intro2.png	3	Qindex   3
+394	5	3_dense	6	Qindex   6
+394	5	3_dense	3	Qindex   5
+394	5	3_dense	4	Qindex   1
+394	5	3_dense	2	Qindex   3
+394	5	3_dense	2	Qindex   2
+394	5	3_dense	2	Qindex   4
+394	5	0_dense	6	Qindex   3

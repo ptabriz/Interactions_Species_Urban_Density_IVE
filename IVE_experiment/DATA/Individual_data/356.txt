@@ -1,0 +1,6 @@
+356	3	interior1.png	3	Qindex   1
+356	3	interior1.png	3	Qindex   2
+356	3	interior1.png	2	Qindex   3
+356	3	intro2.png	2	Qindex   1
+356	3	intro2.png	3	Qindex   3
+356	3	intro2.png	3	Qindex   2

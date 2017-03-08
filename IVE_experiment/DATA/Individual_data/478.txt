@@ -1,0 +1,6 @@
+478	1	interior1.png	2	Qindex   1
+478	1	interior1.png	3	Qindex   3
+478	1	interior1.png	3	Qindex   2
+478	1	intro2.png	3	Qindex   1
+478	1	intro2.png	4	Qindex   2
+478	1	intro2.png	3	Qindex   3
