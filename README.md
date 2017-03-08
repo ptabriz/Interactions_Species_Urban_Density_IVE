@@ -19,6 +19,6 @@ This virtual reality application is powered by [World vizard] (http://www.worldv
 4. For CV1 : Open Config.txt from IVE_experiment/Config directory, Change the runtime attribute to the most recent Oculus runtime version (eg., 1.3)  
 
 ## Running the application
-1. Make sue the Joytick is on before running the application 
+1. Make sure the Joytick is on before running the application 
 2. Run IVE_experiment.exe
 
