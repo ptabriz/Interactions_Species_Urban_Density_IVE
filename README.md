@@ -14,7 +14,7 @@ This virtual reality application is powered by [World vizard] (http://www.worldv
 
 ## Installation
 1. Download the repository
-2. Copy the IVE_experiment folder on D drive. 
+2. Copy the IVE_experiment folder on C drive. 
 3. For DK2 : Make sure that the Oculus sdk runtime 0.8 is installed, otherwise use the provided installer to install it. 
 4. For CV1 : Open Config.txt from IVE_experiment/Config directory, Change the runtime attribute to the most recent Oculus runtime version (eg., 1.3)  
 
