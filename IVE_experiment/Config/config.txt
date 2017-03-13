@@ -1,4 +1,4 @@
-DATA_PATH=D:/IVE_experiment
+DATA_PATH=C:/IVE_experiment
 delay=30
 warmup_delay=30
 Runtime=0.8
